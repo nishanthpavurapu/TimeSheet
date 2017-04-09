@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Learning\TimeSheet\HYRTimeSheet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c25d70a12eef55bdd3177a60ee0cb634a8b5cd4c">
+        <dex dex="E:\Learning\TimeSheet\HYRTimeSheet\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_38b99127da626b375cda21509e77501a2f29ff6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Learning\TimeSheet\HYRTimeSheet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Learning\TimeSheet\HYRTimeSheet\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9fc593a04e4037543748a934173cb71054bf9bc4\classes.dex" />
+    </item>
+
+</items>

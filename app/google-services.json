@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "258835695245",
+    "firebase_url": "https://hyrtimesheet.firebaseio.com",
+    "project_id": "hyrtimesheet",
+    "storage_bucket": "hyrtimesheet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258835695245:android:ced0c875b02f746f",
+        "android_client_info": {
+          "package_name": "com.hyrglobal.hyrtimesheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258835695245-m2ajs1ph6vf05oonug58drfvaj4vtqs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyrglobal.hyrtimesheet",
+            "certificate_hash": "50a8d8571b3b13218f7aaabb3d39b564af1de7f1"
+          }
+        },
+        {
+          "client_id": "258835695245-uh3lb3ccn4r86prak90bn3k9rt29m7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5e-p68R8CUUaVQVwnPtRdXqkuVVSYxI"
+        },
+        {
+          "current_key": "AIzaSyCEMqV1UVsQH0IjQUHXPxS56c5IDUCxIhw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258835695245-uh3lb3ccn4r86prak90bn3k9rt29m7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
